@@ -1,6 +1,7 @@
 - 👋 Hi, Flávia aqui!
 - 👀 I’m interested in develop myself more and more
 - 🌱 I'm currently studying Computer Science
+- My personal GitHub accont https://github.com/Flavia-20
 
 
 <!---
